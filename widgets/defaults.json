@@ -80,7 +80,7 @@
             "settings": {
                 "validations": []
             }
-        },
+        }
     },
     "Textarea": {
         "widget": "Textarea",
