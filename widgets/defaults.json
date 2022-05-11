@@ -247,7 +247,7 @@
             "content": {
                 "label": "",
                 "required": true,
-                "options": ['']
+                "options": [""]
             },
             "style": {
                 "font-family": "",
