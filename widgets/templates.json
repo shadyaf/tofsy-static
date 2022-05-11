@@ -1,0 +1,1 @@
+{"Button":"<div class=\"button-widget\" style=\"%text_align_style%\">\r\n    <a href=\"%url%\" target=\"_blank\" style=\"%style%\">%text_content%</a>\r\n</div>\r\n","Content":"<div class=\"content-widget\" style=\"%style%\">%html_content%</div>\r\n","Separator":"<div class=\"separator-widget\">\r\n    <hr style=\"%style%\" />\r\n</div>\r\n"}

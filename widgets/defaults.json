@@ -1,0 +1,328 @@
+{
+    "Content": {
+        "widget": "Content",
+        "type": "content",
+        "id": "%id%",
+        "properties": {
+            "content": {
+                "html": "<p>Lorem Impsum</p>"
+            },
+            "style": {
+                "font-family": "",
+                "direction": "",
+                "font-size": "",
+                "font-weight": "",
+                "text-align": "",
+                "color": "",
+                "padding": "0px 10px 0px 10px",
+                "margin": ""
+            }
+        }
+    },
+    "Button": {
+        "widget": "Button",
+        "type": "content",
+        "id": "%id%",
+        "properties": {
+            "content": {
+                "text": "",
+                "url": ""
+            },
+            "style": {
+                "display": "inline-block",
+                "font-family": "",
+                "direction": "",
+                "font-size": "",
+                "font-weight": "",
+                "text-decoration": "none",
+                "text-align": "",
+                "color": "#f8f8f8",
+                "background-color": "#555555",
+                "border-radius": "3px 3px 3px 3px",
+                "padding": "6px 10px 6px 10px",
+                "margin": "5px 10px 10px 10px"
+            }
+        }
+    },
+    "Separator": {
+        "widget": "Separator",
+        "type": "input",
+        "id": "%id%",
+        "properties": {
+            "style": {
+                "margin": "5px 10px 10px 10px",
+                "border-color": "#666666",
+                "border-width": "1px 0px 0px 0px",
+                "border-style": "solid"
+            }
+        }
+    },
+
+    "Textbox": {
+        "widget": "Textbox",
+        "type": "input",
+        "id": "%id%",
+        "properties": {
+            "content": {
+                "label": "",
+                "required": true
+            },
+            "style": {
+                "font-family": "",
+                "direction": "",
+                "font-size": "",
+                "font-weight": "",
+                "color": "",
+                "text-align": "",
+                "padding": "",
+                "margin": ""
+            },
+            "settings": {
+                "validations": []
+            }
+        },
+    },
+    "Textarea": {
+        "widget": "Textarea",
+        "type": "input",
+        "id": "%id%",
+        "properties": {
+            "content": {
+                "label": "",
+                "required": true
+            },
+            "style": {
+                "font-family": "",
+                "direction": "",
+                "font-size": "",
+                "font-weight": "",
+                "color": "",
+                "text-align": "",
+                "padding": "",
+                "margin": ""
+            },
+            "settings": {
+                "validations": []
+            }
+        }
+    },
+    "Date": {
+        "widget": "Date",
+        "type": "input",
+        "id": "%id%",
+        "properties": {
+            "content": {
+                "label": "",
+                "required": true
+            },
+            "style": {
+                "font-family": "",
+                "direction": "",
+                "font-size": "",
+                "font-weight": "",
+                "color": "",
+                "text-align": "",
+                "padding": "",
+                "margin": ""
+            },
+            "settings": {
+                "validations": []
+            }
+        }
+    },
+    "Email": {
+        "widget": "Email",
+        "type": "input",
+        "id": "%id%",
+        "properties": {
+            "content": {
+                "label": "",
+                "required": true
+            },
+            "style": {
+                "font-family": "",
+                "direction": "",
+                "font-size": "",
+                "font-weight": "",
+                "color": "",
+                "text-align": "",
+                "padding": "",
+                "margin": ""
+            }
+        }
+    },
+    "Color": {
+        "widget": "Color",
+        "type": "input",
+        "id": "%id%",
+        "properties": {
+            "content": {
+                "label": "",
+                "required": true
+            },
+            "style": {
+                "font-family": "",
+                "direction": "",
+                "font-size": "",
+                "font-weight": "",
+                "color": "",
+                "text-align": "",
+                "padding": "",
+                "margin": ""
+            },
+            "settings": {
+                "validations": []
+            }
+        }
+    },
+    "Url": {
+        "widget": "Url",
+        "type": "input",
+        "id": "%id%",
+        "properties": {
+            "content": {
+                "label": "",
+                "required": true
+            },
+            "style": {
+                "font-family": "",
+                "direction": "",
+                "font-size": "",
+                "font-weight": "",
+                "color": "",
+                "text-align": "",
+                "padding": "",
+                "margin": ""
+            }
+        }
+    },
+
+    "Checkbox": {
+        "widget": "Checkbox",
+        "type": "input",
+        "id": "%id%",
+        "properties": {
+            "content": {
+                "label": "",
+                "required": true,
+                "options": []
+            },
+            "style": {
+                "font-family": "",
+                "direction": "",
+                "font-size": "",
+                "font-weight": "",
+                "color": "",
+                "text-align": "",
+                "padding": "",
+                "margin": ""
+            }
+        }
+    },
+    "Radiobutton": {
+        "widget": "Radiobutton",
+        "type": "input",
+        "id": "%id%",
+        "properties": {
+            "content": {
+                "label": "",
+                "required": true,
+                "options": []
+            },
+            "style": {
+                "font-size": "",
+                "font-weight": "",
+                "color": "",
+                "text-align": "",
+                "padding": "",
+                "margin": ""
+            }
+        }
+    },
+    "Select": {
+        "widget": "Select",
+        "type": "input",
+        "id": "%id%",
+        "properties": {
+            "content": {
+                "label": "",
+                "required": true,
+                "options": ['']
+            },
+            "style": {
+                "font-family": "",
+                "direction": "",
+                "font-size": "",
+                "font-weight": "",
+                "color": "",
+                "text-align": "",
+                "padding": "",
+                "margin": ""
+            }
+        }
+    },
+
+    "Id": {
+        "widget": "Id",
+        "type": "input",
+        "id": "%id%",
+        "properties": {
+            "content": {
+                "label": "",
+                "required": true
+            },
+            "style": {
+                "font-family": "",
+                "direction": "",
+                "font-size": "",
+                "font-weight": "",
+                "color": "",
+                "text-align": "",
+                "padding": "",
+                "margin": ""
+            }
+        }
+    },
+    "Phone": {
+        "widget": "Phone",
+        "type": "input",
+        "id": "%id%",
+        "properties": {
+            "content": {
+                "label": "",
+                "required": true,
+                "extensions": ["050", "051", "052", "053", "054", "055", "056", "058", "059"]
+            },
+            "style": {
+                "font-family": "",
+                "direction": "",
+                "font-size": "",
+                "font-weight": "",
+                "color": "",
+                "text-align": "",
+                "padding": "",
+                "margin": ""
+            }
+        }
+    },
+    "Signature": {
+        "widget": "Signature",
+        "type": "input",
+        "id": "%id%",
+        "properties": {
+            "content": {
+                "label": ""
+            },
+            "style": {
+                "font-family": "",
+                "direction": "",
+                "font-size": "",
+                "font-weight": "",
+                "color": "",
+                "text-align": "",
+                "padding": "",
+                "margin": ""
+            }
+        }
+    }
+}

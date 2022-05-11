@@ -1,0 +1,61 @@
+html {
+    font-family: 'Arial';
+}
+p {
+    margin:8px 0 12px;
+}
+h1, h2, h3, h4, h5, h6 {
+    margin: 10px 0 16px;
+}
+label {
+    display: block;
+    line-height: 1.4em;
+}
+
+input[type="text"],
+input[type="number"],
+input[type="email"],
+input[type="date"],
+input[type="email"],
+input[type="url"],
+select {
+    width: auto;
+    width: 100%;
+    max-width: 220px;
+    border: 1px solid #a8a8a8;
+    padding:6px 5px;
+    border-radius:5px;
+}
+
+input[type="url"],
+input[type="email"] {
+    direction: ltr;
+}
+
+textarea {
+    border: 1px solid #a8a8a8;
+    padding:6px 5px;
+    border-radius:5px;
+    min-height:100px;
+    width:96%;
+}
+
+.phone-widget-inputs,
+.phone-widget-inputs select,
+.phone-widget-inputs input[type="text"] {
+    display: inline-block;
+    direction: ltr;
+}
+.phone-widget-inputs select {
+    width: 70px;
+}
+.phone-widget-inputs input[type="text"] {
+    width: 130px;
+}
+
+.signature-pad {
+    width: 200px;
+    background: #e8e8e8;
+    padding: 20px;
+    text-align:center;
+}

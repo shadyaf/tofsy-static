@@ -1,0 +1,96 @@
+{
+    "form_builder": {
+
+        "drag_a_widget": "יש לגרור ווידג'ט מסרגל ימני לאיזור זה",
+
+        "Content": "תוכן",
+        "Button": "כפתור",
+        "Separator": "פס מפריד",
+
+        "Textbox": "שדה טקסט",
+        "Textarea": "שדה תוכן",
+        "Date": "שדה תאריך",
+        "Email": "שדה דואר אלקטרוני",
+        "Url": "שדה כתובת אינטרנט",
+        "Color": "שדה צבע",
+
+        "Checkbox": "שדה בחירות",
+        "Radiobutton": "שדה בחירה",
+        "Select": "שדה Dropdown",
+
+        "Id": "שדה ת.ז",
+        "Phone": "שדה מס' טלפון",
+
+        "Signature": "שדה חתימה",
+
+        "widgets_link_text": "וודג'טים",
+        "form_settings_link_text": "הגדרות הטופס",
+        "edit_widget_prefix": "ווידג'ט: ",
+        "back": "חזרה",
+
+        "edit": "עריכה",
+        "clone": "שכפול",
+        "remove": "מחיקה",
+        "move": "הזזה",
+
+        "content_widgets_title": "תוכן",
+        "single_fields_title": "שדות בסיסיים",
+        "multi_fields_title": "שדות בחירה",
+
+        "content": "תוכן",
+        "style": "עיצוב",
+        "settings": "הגדרות",
+
+        "text": "טקסט",
+        "label": "כותרת שדה",
+        "required": "שדה חובה",
+        "options": "בחירות",
+        "add_option": "הוסף בחירה",
+        "url": "קישור",
+
+        "font": "פונט",
+        "font_size": "גודל פונט",
+        "font_weight": "עובה טקסט",
+        "color": "צבע",
+        "background_color": "צבע רקע",
+        "heading_level": "סוג כותרת",
+        "text_align": " ",
+        "border_radius": "רדיוס מסגרת",
+        "border_width": "עובה מסגרת",
+        "border_style": "סגנון מסגרת",
+        "border_color": "צבע מסגרת",
+        "font_styling": "גודל ועיצוב פונט",
+
+        "padding": "רוחב פנימי",
+        "margin": "רוחב חיצוני",
+        "hint_top": "עליון",
+        "hint_right": "ימין",
+        "hint_bottom": "תחתון",
+        "hint_left": "שמאל",
+
+        "font_inherit_value": "לפי הגדרות הטופס",
+        "reset_style_button": "איפוס עיצוב",
+        "option_default_text": "בחירה",
+
+        "phone_extensions": "סיומות אפשריות",
+
+        "save_and_close_widget_button": "שמור/סגור ווידג'ט"
+    },
+    "forms_create": {
+        "new_form_title": "יצירת טופס חדש",
+        "form_name": "שם הטופס",
+        "form_language": "שפת הטופס",
+        "language_en": "אנגלית",
+        "language_ar": "ערבית",
+        "language_he": "עברית",
+        "language_ru": "רוסית",
+        "language_other": "אחר..",
+
+        "form_flow_type": "סוג הטופס",
+        "form_flow_one_step": "צעד אחד (שיתוף בבולק דרך קישור כללי)",
+        "form_flow_two_step": "שני צעדים (עריכה ושליחה פרטנית לפי נמען)",
+        "form_create_submit_text": "יצירה",
+
+        "back_button_text": "חזרה"
+    }
+}
