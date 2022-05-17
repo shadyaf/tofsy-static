@@ -75,7 +75,12 @@
 
         "phone_extensions": "סיומות אפשריות",
 
-        "save_and_close_widget_button": "שמור/סגור ווידג'ט"
+        "save_and_close_widget_button": "שמור/סגור ווידג'ט",
+        "publish_form": "המשך לפרסום טופס",
+        "save_and_close_form": "שמור וסגור טיוטה",
+
+        "web_form_step": "תצוגת וויב",
+        "pdf_step": "תצוגת PDF"
     },
     "forms_create": {
         "new_form_title": "יצירת טופס חדש",
