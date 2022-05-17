@@ -19,6 +19,27 @@
             }
         }
     },
+    "Heading": {
+        "widget": "Heading",
+        "type": "content",
+        "id": "%id%",
+        "properties": {
+            "content": {
+                "text": "",
+                "heading_level": 2
+            },
+            "style": {
+                "display": "block",
+                "font-family": "",
+                "direction": "",
+                "font-size": "",
+                "font-weight": "",
+                "text-decoration": "",
+                "text-align": "",
+                "color": ""
+            }
+        }
+    },
     "Button": {
         "widget": "Button",
         "type": "content",
