@@ -5,7 +5,7 @@
         "id": "%id%",
         "properties": {
             "content": {
-                "html": "<p>Lorem Impsum</p>"
+                "html": ""
             },
             "style": {
                 "font-family": "",
@@ -99,9 +99,6 @@
                 "text-align": "",
                 "padding": "",
                 "margin": ""
-            },
-            "settings": {
-                "validations": []
             }
         }
     },
@@ -123,9 +120,6 @@
                 "text-align": "",
                 "padding": "",
                 "margin": ""
-            },
-            "settings": {
-                "validations": []
             }
         }
     },
@@ -147,9 +141,6 @@
                 "text-align": "",
                 "padding": "",
                 "margin": ""
-            },
-            "settings": {
-                "validations": []
             }
         }
     },
@@ -192,9 +183,6 @@
                 "text-align": "",
                 "padding": "",
                 "margin": ""
-            },
-            "settings": {
-                "validations": []
             }
         }
     },
