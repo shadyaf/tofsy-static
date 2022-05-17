@@ -10,7 +10,7 @@
             "style": {
                 "font-family": "",
                 "direction": "",
-                "font-size": "",
+                "font-size": "inherit",
                 "font-weight": "",
                 "text-align": "",
                 "color": "",
@@ -32,7 +32,7 @@
                 "display": "block",
                 "font-family": "",
                 "direction": "",
-                "font-size": "",
+                "font-size": "inherit",
                 "font-weight": "",
                 "text-decoration": "",
                 "text-align": "",
@@ -55,7 +55,7 @@
                 "display": "inline-block",
                 "font-family": "",
                 "direction": "",
-                "font-size": "",
+                "font-size": "inherit",
                 "font-weight": "",
                 "text-decoration": "none",
                 "text-align": "",
@@ -93,7 +93,7 @@
             "style": {
                 "font-family": "",
                 "direction": "",
-                "font-size": "",
+                "font-size": "inherit",
                 "font-weight": "",
                 "color": "",
                 "text-align": "",
@@ -117,7 +117,7 @@
             "style": {
                 "font-family": "",
                 "direction": "",
-                "font-size": "",
+                "font-size": "inherit",
                 "font-weight": "",
                 "color": "",
                 "text-align": "",
@@ -141,7 +141,7 @@
             "style": {
                 "font-family": "",
                 "direction": "",
-                "font-size": "",
+                "font-size": "inherit",
                 "font-weight": "",
                 "color": "",
                 "text-align": "",
@@ -165,7 +165,7 @@
             "style": {
                 "font-family": "",
                 "direction": "",
-                "font-size": "",
+                "font-size": "inherit",
                 "font-weight": "",
                 "color": "",
                 "text-align": "",
@@ -186,7 +186,7 @@
             "style": {
                 "font-family": "",
                 "direction": "",
-                "font-size": "",
+                "font-size": "inherit",
                 "font-weight": "",
                 "color": "",
                 "text-align": "",
@@ -210,7 +210,7 @@
             "style": {
                 "font-family": "",
                 "direction": "",
-                "font-size": "",
+                "font-size": "inherit",
                 "font-weight": "",
                 "color": "",
                 "text-align": "",
@@ -233,7 +233,7 @@
             "style": {
                 "font-family": "",
                 "direction": "",
-                "font-size": "",
+                "font-size": "inherit",
                 "font-weight": "",
                 "color": "",
                 "text-align": "",
@@ -253,7 +253,7 @@
                 "options": []
             },
             "style": {
-                "font-size": "",
+                "font-size": "inherit",
                 "font-weight": "",
                 "color": "",
                 "text-align": "",
@@ -275,7 +275,7 @@
             "style": {
                 "font-family": "",
                 "direction": "",
-                "font-size": "",
+                "font-size": "inherit",
                 "font-weight": "",
                 "color": "",
                 "text-align": "",
@@ -297,7 +297,7 @@
             "style": {
                 "font-family": "",
                 "direction": "",
-                "font-size": "",
+                "font-size": "inherit",
                 "font-weight": "",
                 "color": "",
                 "text-align": "",
@@ -319,7 +319,7 @@
             "style": {
                 "font-family": "",
                 "direction": "",
-                "font-size": "",
+                "font-size": "inherit",
                 "font-weight": "",
                 "color": "",
                 "text-align": "",
@@ -339,7 +339,7 @@
             "style": {
                 "font-family": "",
                 "direction": "",
-                "font-size": "",
+                "font-size": "inherit",
                 "font-weight": "",
                 "color": "",
                 "text-align": "",
