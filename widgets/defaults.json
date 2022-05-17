@@ -32,13 +32,13 @@
                 "display": "block",
                 "font-family": "",
                 "direction": "",
-                "font-size": "inherit",
+                "font-size": "",
                 "font-weight": "",
                 "text-decoration": "",
                 "text-align": "",
                 "color": "",
                 "padding": "0px 10px 0px 10px",
-                "margin": ""
+                "margin": "12px 0px 12px 0px"
             }
         }
     },
