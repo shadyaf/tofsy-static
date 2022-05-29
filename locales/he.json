@@ -80,7 +80,9 @@
         "save_and_close_form": "שמור וסגור טיוטה",
 
         "web_form_step": "תצוגת וויב",
-        "pdf_step": "תצוגת PDF"
+        "pdf_step": "תצוגת PDF",
+
+        "download_pdf": "הורדת קובץ PDF לדוגמא"
     },
     "forms_create": {
         "new_form_title": "יצירת טופס חדש",
