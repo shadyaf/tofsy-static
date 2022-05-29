@@ -1,0 +1,59 @@
+html {
+    -webkit-print-color-adjust: exact;
+}
+
+.pdf-preview label {
+    display: inline-block;
+    width: auto;
+    min-width: 150px;
+}
+
+.pdf-preview .input-value,
+.pdf-preview .signature {
+    display: inline-block;
+    padding: 2px 8px;
+    border-bottom: 1px solid black;
+    width: auto;
+    min-width: 150px;
+}
+
+.pdf-preview .input-value--multi-line {
+    width: auto;
+    min-width: 50%;
+    max-width: 80%;
+    padding: 0;
+    margin: 12px 0 7px;
+    line-height: 1.4em;
+}
+
+.pdf-preview .input-value--large {
+    min-width: 220px;
+}
+
+.pdf-preview .select-value::after {
+    /*add dropdown icon?*/
+}
+
+p.checkbox-option-render::before {
+    content: '☐ ';
+}
+p.checkbox-option-render.active::before {
+    content: '☑ ';
+}
+
+p.radio-option-render::before {
+    content: 'ⵔ ';
+}
+p.radio-option-render.active::before {
+    content: '◉ ';
+}
+
+.pdf-widget-component.textarea-widget .input-label {
+    display:block;
+    min-width: auto;
+}
+
+.pdf-widget-component.signature-widget {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
