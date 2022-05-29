@@ -48,12 +48,12 @@ p.radio-option-render.active::before {
     content: '◉ ';
 }
 
-.pdf-widget-component.textarea-widget .input-label {
+.textarea-widget .input-label {
     display:block;
     min-width: auto;
 }
 
-.pdf-widget-component.signature-widget {
+.signature-widget {
     margin-top: 20px;
     margin-bottom: 20px;
 }
