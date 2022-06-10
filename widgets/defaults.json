@@ -81,7 +81,7 @@
         }
     },
     "Pagebreak": {
-        "widget": "Pagebreaker",
+        "widget": "Pagebreak",
         "type": "content",
         "id": "%id%",
         "properties": {}
