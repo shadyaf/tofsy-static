@@ -82,7 +82,9 @@
         "web_form_step": "תצוגת וויב",
         "pdf_step": "תצוגת PDF",
 
-        "download_pdf": "הורדת קובץ PDF לדוגמא"
+        "download_pdf": "הורדת קובץ PDF לדוגמא",
+
+        "form_configurations_title": "הגדרות הטופס"
     },
     "forms_create": {
         "new_form_title": "יצירת טופס חדש",

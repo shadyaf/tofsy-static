@@ -80,6 +80,12 @@
             }
         }
     },
+    "Pagebreak": {
+        "widget": "Pagebreaker",
+        "type": "content",
+        "id": "%id%",
+        "properties": {}
+    },
 
     "Textbox": {
         "widget": "Textbox",
