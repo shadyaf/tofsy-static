@@ -7,6 +7,7 @@
         "Heading": "כותרת",
         "Button": "כפתור",
         "Separator": "פס מפריד",
+        "Pagebreak": "שבירת דף בPDF",
 
         "Textbox": "שדה טקסט",
         "Textarea": "שדה תוכן",
@@ -84,7 +85,33 @@
 
         "download_pdf": "הורדת קובץ PDF לדוגמא",
 
-        "form_configurations_title": "הגדרות הטופס"
+        "settings_widget_visibility": "איפה להציג",
+        "settings_visibility_both": "ב-ויב + PDF",
+        "settings_visibility_web": "בטופס ויב בלבד",
+        "settings_visibility_pdf": "בטופס PDF בלבד",
+
+
+        "form_configurations_title": "הגדרות הטופס",
+        "form_configurations_general": "כללי",
+        "form_configurations_style": "עיצוב",
+        "form_configurations_pdf": "הגדרות PDF",
+
+        "configurations_form_name": "שם הטופס",
+        "configurations_form_language": "שפת הטופס",
+        "configurations_form_direction": "כיוון כתיבה",
+        "configurations_form_type": "סוג הטופס",
+
+        "configurations_default_font_family": "פונט (ברירת מחדל)",
+        "configurations_default_font_size": "גודל פונט",
+
+        "configurations_pdf_margins": "רוחב פנימי (PDF)",
+
+        "save_and_close_configurations_btn": "שמור / סגור",
+
+        "use_separate_styles_in_widget": "ליצר סטייל נפרד עבור תצוגת PDF",
+        "web_form_style_section_title": "עיצוב ברירת מחדל / תצוגת ויב",
+        "pdf_style_section_title": "עיצוב תצוגת PDF"
+
     },
     "forms_create": {
         "new_form_title": "יצירת טופס חדש",
