@@ -1,4 +1,55 @@
 {
+    "Bankinfo": {
+        "widget": "Bankinfo",
+        "type": "fields_group",
+        "id": "%id%",
+        "properties": {
+            "content": {
+                "label": "",
+                "fields": [
+                    {
+                        "field_type": "select",
+                        "reference_key": "bank_name",
+                        "label": "",
+                        "options": [],
+                        "enabled": true,
+                        "required": true
+                    },
+                    {
+                        "field_type": "text",
+                        "reference_key": "bank_branch_number",
+                        "label": "",
+                        "enabled": true,
+                        "required": true,
+                        "validations": [
+                            "numeric"
+                        ]
+                    },
+                    {
+                        "field_type": "text",
+                        "reference_key": "bank_account_number",
+                        "label": "",
+                        "enabled": true,
+                        "required": true,
+                        "validations": [
+                            "min_length:4",
+                            "numeric"
+                        ]
+                    }
+                ]
+            },
+            "style": {
+                "font-family": "",
+                "direction": "",
+                "font-size": "inherit",
+                "font-weight": "",
+                "text-align": "",
+                "color": "",
+                "padding": "10px 10px 10px 10px",
+                "margin": ""
+            }
+        }
+    },
     "Content": {
         "widget": "Content",
         "type": "content",

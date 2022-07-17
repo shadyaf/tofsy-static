@@ -59,3 +59,13 @@ textarea {
     padding: 20px;
     text-align:center;
 }
+
+.fields-group-title {
+    font-size: 1.2em;
+    margin-bottom: 0.75em;
+}
+
+.form-group.field-group {
+    display: inline-block;
+    width: 275px;
+}
